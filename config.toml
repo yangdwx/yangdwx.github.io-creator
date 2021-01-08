@@ -1,0 +1,4 @@
+baseURL = "https://yangdwx.github.io/"
+languageCode = "zh-Hans"
+title = "My blog"
+theme = "ananke"
